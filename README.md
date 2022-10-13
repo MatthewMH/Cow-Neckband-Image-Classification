@@ -1,1 +1,1 @@
-# Cow-Neckband-Identification
+# Cow-Neckband-Image-Classification
